@@ -9,31 +9,31 @@ MongoDB (running locally or on Atlas)
 # Run the Backend Services
 Each backend service runs separately.
 
-To Run Employee Service use these command.
+To Run Employee Service use these command:
  
  cd employee-service
  npm install
  node index.js
 
-To Run Attendance Service use these command.
+To Run Attendance Service use these command:
  
  cd attendance-service
  npm install
  node index.js
 
-To Run Department Service use these command.
+To Run Department Service use these command:
  
  cd department-service
  npm install
  node index.js
 
-To Run Payroll Service use these command.
+To Run Payroll Service use these command:
  
  cd payroll-service
  npm install
  node index.js
 
-To Run notification Service use these command.
+To Run notification Service use these command:
  
  cd notification-service
  npm install
